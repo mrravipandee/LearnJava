@@ -4,30 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Now I Start learning Java.">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/BooleanExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/DeclareMultipleVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/HelloJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/IfCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaArraysLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaForEachLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaMultiDimensionalArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/MathInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/NumAndStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/Operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/SpecialCharInStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/StringJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/castingData.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Today &amp; yesterday I learn basic of Java, what they are come from any programming languages. I Confused in multi-dimensional arrays ?">
+      <change afterPath="$PROJECT_DIR$/src/JavaMethods/ParametersAndArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMethods/basicMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMethods/methodIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMethods/methodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMethods/recursionInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaMethods/scopeOfJava.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BasicOfJava/JavaMultiDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BasicOfJava/JavaMultiDimensionalArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +56,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JavaMultiDimensionalArrays">
-    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicOfJava.BreakAndContinue" />
+  <component name="RunManager" selected="Application.recursionInJava">
+    <configuration name="ParametersAndArguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.ParametersAndArguments" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicOfJava.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaArraysLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicOfJava.JavaArraysLoop" />
+    <configuration name="basicMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.basicMethod" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicOfJava.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicOfJava.JavaForEachLoop" />
+    <configuration name="methodIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.methodIfElse" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicOfJava.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicOfJava.JavaForLoop" />
+    <configuration name="methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.methodOverloading" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicOfJava.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaMultiDimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicOfJava.JavaMultiDimensionalArrays" />
+    <configuration name="recursionInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaMethods.recursionInJava" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicOfJava.*" />
+          <option name="PATTERN" value="JavaMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaMultiDimensionalArrays" />
-        <item itemvalue="Application.JavaArraysLoop" />
-        <item itemvalue="Application.BreakAndContinue" />
-        <item itemvalue="Application.JavaForEachLoop" />
-        <item itemvalue="Application.JavaForLoop" />
+        <item itemvalue="Application.recursionInJava" />
+        <item itemvalue="Application.methodOverloading" />
+        <item itemvalue="Application.methodIfElse" />
+        <item itemvalue="Application.ParametersAndArguments" />
+        <item itemvalue="Application.basicMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682082053645</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Today &amp; yesterday I learn basic of Java, what they are come from any programming languages. I Confused in multi-dimensional arrays ?">
+      <created>1682235434476</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682235434476</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +171,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Now I Start learning Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Now I Start learning Java." />
+    <MESSAGE value="Today &amp; yesterday I learn basic of Java, what they are come from any programming languages. I Confused in multi-dimensional arrays ?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Today &amp; yesterday I learn basic of Java, what they are come from any programming languages. I Confused in multi-dimensional arrays ?" />
   </component>
 </project>
