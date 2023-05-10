@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Now I can understand whats a Method and how they used in program. but i can't understand recursion logic.">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/CalculatorProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaMethods/itsSelfRecursion.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="I created my first assignment to make a calculator using switch case in Java.">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/PalindromeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/SumNumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/SumNumberRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/ifElseMarryme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/stringInBuild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/basic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +56,9 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CalculatorProgram">
-    <configuration name="CalculatorProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.CalculatorProgram" />
+  <component name="RunManager" selected="Application.ifElseMarryme">
+    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.PalindromeString" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -65,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="itsSelfRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.itsSelfRecursion" />
+    <configuration name="SumNumberRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.SumNumberRecursion" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMethods.*" />
+          <option name="PATTERN" value="AssignmentOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodIfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.methodIfElse" />
+    <configuration name="basic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.basic" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMethods.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.methodOverloading" />
+    <configuration name="ifElseMarryme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.ifElseMarryme" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMethods.*" />
+          <option name="PATTERN" value="AssignmentOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="recursionInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaMethods.recursionInJava" />
+    <configuration name="stringInBuild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.stringInBuild" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaMethods.*" />
+          <option name="PATTERN" value="AssignmentOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorProgram" />
-        <item itemvalue="Application.itsSelfRecursion" />
-        <item itemvalue="Application.recursionInJava" />
-        <item itemvalue="Application.methodOverloading" />
-        <item itemvalue="Application.methodIfElse" />
+        <item itemvalue="Application.ifElseMarryme" />
+        <item itemvalue="Application.PalindromeString" />
+        <item itemvalue="Application.basic" />
+        <item itemvalue="Application.stringInBuild" />
+        <item itemvalue="Application.SumNumberRecursion" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682453851107</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I created my first assignment to make a calculator using switch case in Java.">
+      <created>1682687587708</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682687587708</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +187,7 @@
     <MESSAGE value="Now I Start learning Java." />
     <MESSAGE value="Today &amp; yesterday I learn basic of Java, what they are come from any programming languages. I Confused in multi-dimensional arrays ?" />
     <MESSAGE value="Now I can understand whats a Method and how they used in program. but i can't understand recursion logic." />
-    <option name="LAST_COMMIT_MESSAGE" value="Now I can understand whats a Method and how they used in program. but i can't understand recursion logic." />
+    <MESSAGE value="I created my first assignment to make a calculator using switch case in Java." />
+    <option name="LAST_COMMIT_MESSAGE" value="I created my first assignment to make a calculator using switch case in Java." />
   </component>
 </project>
