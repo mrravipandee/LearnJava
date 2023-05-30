@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Practice java basics">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/countFeetInch.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Calculator to count feet, inch or inch count in feet also.">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/greatingMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/leapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/simpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/sumX.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -51,20 +54,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.countFeetInch">
-    <configuration name="bigToSmallStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.bigToSmallStar" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.simpleInterest">
     <configuration name="countFeetInch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssignmentOne.countFeetInch" />
       <module name="LearnJava" />
@@ -78,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="funcSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.funcSum" />
+    <configuration name="greatingMsg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.greatingMsg" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="staticVarialble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.staticVarialble" />
+    <configuration name="leapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.leapYear" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +94,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.table" />
+    <configuration name="simpleInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.simpleInterest" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.sumX" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.simpleInterest" />
+        <item itemvalue="Application.greatingMsg" />
+        <item itemvalue="Application.sumX" />
+        <item itemvalue="Application.leapYear" />
         <item itemvalue="Application.countFeetInch" />
-        <item itemvalue="Application.bigToSmallStar" />
-        <item itemvalue="Application.funcSum" />
-        <item itemvalue="Application.table" />
-        <item itemvalue="Application.staticVarialble" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685381775241</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Calculator to count feet, inch or inch count in feet also.">
+      <created>1685423546318</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1685423546318</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Calculator to count feet, inch or inch count in feet also.">
+      <created>1685423575996</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1685423575996</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +248,7 @@
     <MESSAGE value="I made successfully they program to recommend a song, or directly open Url link." />
     <MESSAGE value="Solve few question as assignment." />
     <MESSAGE value="Practice java basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice java basics" />
+    <MESSAGE value="Calculator to count feet, inch or inch count in feet also." />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator to count feet, inch or inch count in feet also." />
   </component>
 </project>
