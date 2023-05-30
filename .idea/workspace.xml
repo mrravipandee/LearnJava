@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Solve few question as assignment.">
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Practice java basics">
       <change afterPath="$PROJECT_DIR$/src/AssignmentOne/countFeetInch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/funcSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/table.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -201,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685046275657</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Practice java basics">
+      <created>1685381775240</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685381775241</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +230,7 @@
     <MESSAGE value="build chat-bot using switch cases." />
     <MESSAGE value="I made successfully they program to recommend a song, or directly open Url link." />
     <MESSAGE value="Solve few question as assignment." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve few question as assignment." />
+    <MESSAGE value="Practice java basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice java basics" />
   </component>
 </project>
