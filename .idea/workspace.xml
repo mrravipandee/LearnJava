@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Calculator to count feet, inch or inch count in feet also.">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/greatingMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/leapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/simpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/sumX.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Complete assignment questions.">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/bestfriends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BasicOfJava/arrayInput.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -54,9 +52,22 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.simpleInterest">
-    <configuration name="countFeetInch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.countFeetInch" />
+  <component name="RunManager" selected="Application.bestfriends">
+    <configuration name="arrayInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicOfJava.arrayInput" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicOfJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bestfriends" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.bestfriends" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="leapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.leapYear" />
+    <configuration name="recomendSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.recomendSong" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -107,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.sumX" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AssignmentOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bestfriends" />
+        <item itemvalue="Application.arrayInput" />
+        <item itemvalue="Application.recomendSong" />
         <item itemvalue="Application.simpleInterest" />
         <item itemvalue="Application.greatingMsg" />
-        <item itemvalue="Application.sumX" />
-        <item itemvalue="Application.leapYear" />
-        <item itemvalue="Application.countFeetInch" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685423575996</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Complete assignment questions.">
+      <created>1685429271329</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685429271329</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +254,7 @@
     <MESSAGE value="Solve few question as assignment." />
     <MESSAGE value="Practice java basics" />
     <MESSAGE value="Calculator to count feet, inch or inch count in feet also." />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator to count feet, inch or inch count in feet also." />
+    <MESSAGE value="Complete assignment questions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete assignment questions." />
   </component>
 </project>
