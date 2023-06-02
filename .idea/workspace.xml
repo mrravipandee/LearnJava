@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Complete assignments.">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/AverageMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Attributes/Objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Attributes/Second.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Attributes/StudentCollge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Attributes/collgeStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/AccessMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/MainMethod.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Learn class and object attributes and methods, function.">
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/CarFunction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaClasses/Methods/AccessMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/AccessMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaClasses/Methods/MainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/MainMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +54,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AverageMarks">
+  <component name="RunManager" selected="Application.AccessMethods">
     <configuration name="AccessMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClasses.Methods.AccessMethods" />
       <module name="LearnJava" />
@@ -125,9 +122,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AverageMarks" />
         <item itemvalue="Application.AccessMethods" />
         <item itemvalue="Application.MainMethod" />
+        <item itemvalue="Application.AverageMarks" />
         <item itemvalue="Application.StudentCollge" />
         <item itemvalue="Application.collgeStudent" />
       </list>
@@ -254,7 +251,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685610728252</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Complete assignments.">
+      <created>1685698397343</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685698397343</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Learn class and object attributes and methods, function.">
+      <created>1685698474867</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685698474867</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +295,7 @@
     <MESSAGE value="In the program have error, I made program as to store data in array or print it." />
     <MESSAGE value="Do assignment" />
     <MESSAGE value="Complete assignments." />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete assignments." />
+    <MESSAGE value="Learn class and object attributes and methods, function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn class and object attributes and methods, function." />
   </component>
 </project>
