@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Learn class and object attributes and methods, function.">
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/CarFunction.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Learn method, call by objects of class or extends class.">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/ElectricityBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/radheRose.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClasses/Methods/AccessMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/AccessMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClasses/Methods/MainMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Methods/MainMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AccessMethods">
+  <component name="RunManager" selected="Application.ElectricityBill">
     <configuration name="AccessMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClasses.Methods.AccessMethods" />
       <module name="LearnJava" />
@@ -81,6 +79,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ElectricityBill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.ElectricityBill" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentOne.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClasses.Methods.MainMethod" />
       <module name="LearnJava" />
@@ -94,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentCollge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaClasses.Attributes.StudentCollge" />
+    <configuration name="radheRose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.radheRose" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaClasses.Attributes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="collgeStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaClasses.Attributes.collgeStudent" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaClasses.Attributes.*" />
+          <option name="PATTERN" value="AssignmentOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ElectricityBill" />
+        <item itemvalue="Application.radheRose" />
         <item itemvalue="Application.AccessMethods" />
         <item itemvalue="Application.MainMethod" />
         <item itemvalue="Application.AverageMarks" />
-        <item itemvalue="Application.StudentCollge" />
-        <item itemvalue="Application.collgeStudent" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685698474867</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Learn method, call by objects of class or extends class.">
+      <created>1685725390844</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685725390844</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +301,7 @@
     <MESSAGE value="Do assignment" />
     <MESSAGE value="Complete assignments." />
     <MESSAGE value="Learn class and object attributes and methods, function." />
-    <option name="LAST_COMMIT_MESSAGE" value="Learn class and object attributes and methods, function." />
+    <MESSAGE value="Learn method, call by objects of class or extends class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn method, call by objects of class or extends class." />
   </component>
 </project>
