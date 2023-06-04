@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Do assignment for character is Vowel or Consonant.">
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Constructors/CallCons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Constructors/Default.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Constructors/MyCons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Constructors/Parameterized.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Learning Constructors.">
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Constructors/Copy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaClasses/Constructors/Private.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaClasses/Constructors/Parameterized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Constructors/Parameterized.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +53,22 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Parameterized">
+  <component name="RunManager" selected="Application.Private">
     <configuration name="CallCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClasses.Constructors.CallCons" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaClasses.Constructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClasses.Constructors.Copy" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
@@ -81,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaClasses.Constructors.MyCons" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaClasses.Constructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Parameterized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaClasses.Constructors.Parameterized" />
       <module name="LearnJava" />
@@ -107,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.VowelOrConsonant" />
+    <configuration name="Private" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaClasses.Constructors.Private" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentOne.*" />
+          <option name="PATTERN" value="JavaClasses.Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Private" />
+        <item itemvalue="Application.Copy" />
         <item itemvalue="Application.Parameterized" />
         <item itemvalue="Application.Default" />
         <item itemvalue="Application.CallCons" />
-        <item itemvalue="Application.MyCons" />
-        <item itemvalue="Application.VowelOrConsonant" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685733492035</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Learning Constructors.">
+      <created>1685815019794</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1685815019794</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,6 +334,7 @@
     <MESSAGE value="Color text in java -&gt; command line output." />
     <MESSAGE value="Do assignment. Pay Electricity Bill" />
     <MESSAGE value="Do assignment for character is Vowel or Consonant." />
-    <option name="LAST_COMMIT_MESSAGE" value="Do assignment for character is Vowel or Consonant." />
+    <MESSAGE value="Learning Constructors." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning Constructors." />
   </component>
 </project>

@@ -19,6 +19,7 @@ public class Parameterized {
     public static void main(String[] args) {
 
         Parameterized parameterized = new Parameterized(100, 200);
+        Parameterized parameterized1 = new Parameterized(100);
         parameterized.show();
 
     }
