@@ -4,15 +4,18 @@ import java.util.Scanner;
 
 public class PalindromeString {
     static void checkPalindrome(String str) {
+
         boolean res = true;
+
         int length = str.length();
+
         for(int i=0; i<= length/2; i++) {
+
             if(str.charAt(i) != str.charAt(length-i-1)) {
                 res = false;
                 break;
             }
         }
-
         System.out.println(str + " is palindrome = "+res);
     }
 
