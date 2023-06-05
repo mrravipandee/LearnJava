@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Do assignment question's.">
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/AbstrctMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/DefaultUsed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/Methods_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/PrivateUsed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/ProtectedUsed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/PublicUsed.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="I can read theory but now I dont know where they can apply.">
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/PersonAccess.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaClasses/Attributes/collgeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Attributes/collgeStudent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AbstrctMethods">
+  <component name="RunManager" selected="Application.PersonAccess">
     <configuration name="AbstrctMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Modifiers.AbstrctMethods" />
       <module name="LearnJava" />
@@ -83,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.PalindromeStr" />
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Person" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentOne.*" />
+          <option name="PATTERN" value="Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.PalindromeString" />
+    <configuration name="PersonAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.PersonAccess" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentOne.*" />
+          <option name="PATTERN" value="Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PersonAccess" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.AbstrctMethods" />
         <item itemvalue="Application.Methods_test" />
         <item itemvalue="Application.PublicUsed" />
-        <item itemvalue="Application.PalindromeStr" />
-        <item itemvalue="Application.PalindromeString" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685875164002</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="I can read theory but now I dont know where they can apply.">
+      <created>1685951106827</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685951106827</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +358,7 @@
     <MESSAGE value="Learning Constructors." />
     <MESSAGE value="Completed Constructors all type, but don't know where they used." />
     <MESSAGE value="Do assignment question's." />
-    <option name="LAST_COMMIT_MESSAGE" value="Do assignment question's." />
+    <MESSAGE value="I can read theory but now I dont know where they can apply." />
+    <option name="LAST_COMMIT_MESSAGE" value="I can read theory but now I dont know where they can apply." />
   </component>
 </project>
