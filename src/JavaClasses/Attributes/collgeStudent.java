@@ -18,4 +18,8 @@ public class collgeStudent {
         System.out.println(clg.nameClg4+" Student is "+stud.nameStud4);
     }
 
+    public static void name() {
+        System.out.println("Hello");
+    }
+
 }

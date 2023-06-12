@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Lean encapsulation, how can get private data with the help of getter or setter.">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/EvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/FindLargeSmallNum2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/FindLargeSmallNum3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/bigToSmallStar.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Do assignments, program practices.">
+      <change afterPath="$PROJECT_DIR$/src/Patterns/FloydsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramidNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/HollowRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Inverted180HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/InvertedHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/InvertedHalfPyramidNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/SolidRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Patterns/Trangle0_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssignmentTwo/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentTwo/EvenOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JavaClasses/Attributes/collgeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Attributes/collgeStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Patterns/basic.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,16 +59,17 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EvenOdd">
-    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.EvenOdd" />
+  <component name="RunManager" selected="Application.Trangle0_1">
+    <configuration name="FloydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.FloydsTriangle" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentTwo.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLargeSmallNum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.FindLargeSmallNum2" />
+    <configuration name="HalfPyramidNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.HalfPyramidNum" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentTwo.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindLargeSmallNum3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.FindLargeSmallNum3" />
+    <configuration name="Inverted180HalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Inverted180HalfPyramid" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentTwo.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.Person" />
+    <configuration name="InvertedHalfPyramidNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.InvertedHalfPyramidNum" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulation.PersonAccess" />
+    <configuration name="Trangle0_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patterns.Trangle0_1" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="PATTERN" value="Patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenOdd" />
-        <item itemvalue="Application.FindLargeSmallNum3" />
-        <item itemvalue="Application.FindLargeSmallNum2" />
-        <item itemvalue="Application.PersonAccess" />
-        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.Trangle0_1" />
+        <item itemvalue="Application.FloydsTriangle" />
+        <item itemvalue="Application.Inverted180HalfPyramid" />
+        <item itemvalue="Application.InvertedHalfPyramidNum" />
+        <item itemvalue="Application.HalfPyramidNum" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685953335977</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Do assignments, program practices.">
+      <created>1685956175465</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685956175466</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -344,7 +359,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Now I Start learning Java." />
     <MESSAGE value="Today &amp; yesterday I learn basic of Java, what they are come from any programming languages. I Confused in multi-dimensional arrays ?" />
     <MESSAGE value="Now I can understand whats a Method and how they used in program. but i can't understand recursion logic." />
     <MESSAGE value="I created my first assignment to make a calculator using switch case in Java." />
@@ -369,6 +383,7 @@
     <MESSAGE value="Do assignment question's." />
     <MESSAGE value="I can read theory but now I dont know where they can apply." />
     <MESSAGE value="Lean encapsulation, how can get private data with the help of getter or setter." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lean encapsulation, how can get private data with the help of getter or setter." />
+    <MESSAGE value="Do assignments, program practices." />
+    <option name="LAST_COMMIT_MESSAGE" value="Do assignments, program practices." />
   </component>
 </project>
