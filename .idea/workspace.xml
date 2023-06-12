@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Do assignments, program practices.">
-      <change afterPath="$PROJECT_DIR$/src/Patterns/FloydsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HalfPyramidNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/HollowRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Inverted180HalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/InvertedHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/InvertedHalfPyramidNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/SolidRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patterns/Trangle0_1.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Learn how can solved patterns question.">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPatterns/HalfTrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPatterns/HalfTrangleNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPatterns/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentPatterns/Trangle180.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssignmentTwo/EvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentTwo/EvenOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaClasses/Attributes/collgeStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaClasses/Attributes/collgeStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Patterns/basic.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Trangle0_1">
-    <configuration name="FloydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.FloydsTriangle" />
+  <component name="RunManager" selected="Application.Trangle180">
+    <configuration name="HalfTrangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.HalfTrangle" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="AssignmentPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalfPyramidNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.HalfPyramidNum" />
+    <configuration name="HalfTrangleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.HalfTrangleNum" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="AssignmentPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,25 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inverted180HalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.Inverted180HalfPyramid" />
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.Rectangle" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Patterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InvertedHalfPyramidNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Patterns.InvertedHalfPyramidNum" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Patterns.*" />
+          <option name="PATTERN" value="AssignmentPatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Trangle180" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.Trangle180" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentPatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Trangle180" />
+        <item itemvalue="Application.HalfTrangleNum" />
+        <item itemvalue="Application.HalfTrangle" />
+        <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.Trangle0_1" />
-        <item itemvalue="Application.FloydsTriangle" />
-        <item itemvalue="Application.Inverted180HalfPyramid" />
-        <item itemvalue="Application.InvertedHalfPyramidNum" />
-        <item itemvalue="Application.HalfPyramidNum" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685956175466</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Learn how can solved patterns question.">
+      <created>1686563775032</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1686563775032</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,7 +358,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Today &amp; yesterday I learn basic of Java, what they are come from any programming languages. I Confused in multi-dimensional arrays ?" />
     <MESSAGE value="Now I can understand whats a Method and how they used in program. but i can't understand recursion logic." />
     <MESSAGE value="I created my first assignment to make a calculator using switch case in Java." />
     <MESSAGE value="Basic practice of Java" />
@@ -384,6 +382,7 @@
     <MESSAGE value="I can read theory but now I dont know where they can apply." />
     <MESSAGE value="Lean encapsulation, how can get private data with the help of getter or setter." />
     <MESSAGE value="Do assignments, program practices." />
-    <option name="LAST_COMMIT_MESSAGE" value="Do assignments, program practices." />
+    <MESSAGE value="Learn how can solved patterns question." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learn how can solved patterns question." />
   </component>
 </project>
