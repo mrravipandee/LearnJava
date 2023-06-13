@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Do assignment question, Related to patterns.">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/CarDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/DriveCar.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Practice Encapsulation">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/EvenOddByCons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/SumXnumByCons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssignmentPatterns/Trangle180.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentPatterns/Trangle180.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DriveCar">
+  <component name="RunManager" selected="Application.SumXnumByCons">
     <configuration name="DriveCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssignmentTwo.DriveCar" />
       <module name="LearnJava" />
@@ -68,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalfTrangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.HalfTrangle" />
+    <configuration name="EvenOddByCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.EvenOddByCons" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentPatterns.*" />
+          <option name="PATTERN" value="AssignmentTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.Rectangle" />
+    <configuration name="SumXnumByCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.SumXnumByCons" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentPatterns.*" />
+          <option name="PATTERN" value="AssignmentTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumXnumByCons" />
+        <item itemvalue="Application.EvenOddByCons" />
         <item itemvalue="Application.DriveCar" />
         <item itemvalue="Application.Trangle180" />
         <item itemvalue="Application.HalfTrangleNum" />
-        <item itemvalue="Application.HalfTrangle" />
-        <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +348,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686565889329</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Practice Encapsulation">
+      <created>1686649994466</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1686649994466</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,7 +370,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="I created my first assignment to make a calculator using switch case in Java." />
     <MESSAGE value="Basic practice of Java" />
     <MESSAGE value="normal program practices." />
     <MESSAGE value="build chat-bot using switch cases." />
@@ -389,6 +394,7 @@
     <MESSAGE value="Do assignments, program practices." />
     <MESSAGE value="Learn how can solved patterns question." />
     <MESSAGE value="Do assignment question, Related to patterns." />
-    <option name="LAST_COMMIT_MESSAGE" value="Do assignment question, Related to patterns." />
+    <MESSAGE value="Practice Encapsulation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Encapsulation" />
   </component>
 </project>
