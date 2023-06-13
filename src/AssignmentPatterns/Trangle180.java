@@ -23,6 +23,6 @@ public class Trangle180 {
 
     public static void main(String[] args) {
 
-        Trangle180 trangle180 = new Trangle180(5);
+        Trangle180 trangle180 = new Trangle180(50);
     }
 }
