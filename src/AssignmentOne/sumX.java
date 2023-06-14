@@ -22,6 +22,5 @@ public class sumX {
         }
 
         System.out.println("Sum of numbers: "+ sum);
-
     }
 }
