@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Doing assignment.">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/SumXnumByCons.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Sum of n number when they x key.">
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/CarsOwners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InnerClasses/NestedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Animal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssignmentOne/sumX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssignmentOne/sumX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +55,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumXnumByCons">
-    <configuration name="DriveCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.DriveCar" />
+  <component name="RunManager" selected="Application.NestedClass">
+    <configuration name="Animal$Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Animal$Dog" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentTwo.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarsOwners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.CarsOwners" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HalfTrangleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.HalfTrangleNum" />
+    <configuration name="NestedClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InnerClasses.NestedClass" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentPatterns.*" />
+          <option name="PATTERN" value="InnerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trangle180" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentPatterns.Trangle180" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AssignmentPatterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedClass" />
+        <item itemvalue="Application.Animal$Dog" />
+        <item itemvalue="Application.CarsOwners" />
         <item itemvalue="Application.SumXnumByCons" />
         <item itemvalue="Application.EvenOddByCons" />
-        <item itemvalue="Application.DriveCar" />
-        <item itemvalue="Application.Trangle180" />
-        <item itemvalue="Application.HalfTrangleNum" />
       </list>
     </recent_temporary>
   </component>
@@ -362,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686651498268</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Sum of n number when they x key.">
+      <created>1686735207351</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1686735207351</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,7 +386,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="normal program practices." />
     <MESSAGE value="build chat-bot using switch cases." />
     <MESSAGE value="I made successfully they program to recommend a song, or directly open Url link." />
     <MESSAGE value="Solve few question as assignment." />
@@ -402,6 +410,7 @@
     <MESSAGE value="Do assignment question, Related to patterns." />
     <MESSAGE value="Practice Encapsulation" />
     <MESSAGE value="Doing assignment." />
-    <option name="LAST_COMMIT_MESSAGE" value="Doing assignment." />
+    <MESSAGE value="Sum of n number when they x key." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sum of n number when they x key." />
   </component>
 </project>
