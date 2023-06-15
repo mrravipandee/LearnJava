@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Sum of n number when they x key.">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/CarsOwners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InnerClasses/NestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Animal.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Today I learn Inheritance, Polymorphism, then what is inner class.">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/CheckTimeDate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NestedClass">
+  <component name="RunManager" selected="Application.CheckTimeDate">
     <configuration name="Animal$Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Polymorphism.Animal$Dog" />
       <module name="LearnJava" />
@@ -82,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenOddByCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.EvenOddByCons" />
+    <configuration name="CheckTimeDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentOne.CheckTimeDate" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AssignmentTwo.*" />
+          <option name="PATTERN" value="AssignmentOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckTimeDate" />
         <item itemvalue="Application.NestedClass" />
         <item itemvalue="Application.Animal$Dog" />
         <item itemvalue="Application.CarsOwners" />
         <item itemvalue="Application.SumXnumByCons" />
-        <item itemvalue="Application.EvenOddByCons" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686735207351</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Today I learn Inheritance, Polymorphism, then what is inner class.">
+      <created>1686740337155</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1686740337155</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,7 +390,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="build chat-bot using switch cases." />
     <MESSAGE value="I made successfully they program to recommend a song, or directly open Url link." />
     <MESSAGE value="Solve few question as assignment." />
     <MESSAGE value="Practice java basics" />
@@ -411,6 +414,7 @@
     <MESSAGE value="Practice Encapsulation" />
     <MESSAGE value="Doing assignment." />
     <MESSAGE value="Sum of n number when they x key." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sum of n number when they x key." />
+    <MESSAGE value="Today I learn Inheritance, Polymorphism, then what is inner class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Today I learn Inheritance, Polymorphism, then what is inner class." />
   </component>
 </project>
