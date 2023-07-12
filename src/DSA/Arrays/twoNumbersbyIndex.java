@@ -2,19 +2,24 @@ package DSA.Arrays;
 
 public class twoNumbersbyIndex {
 
-    public static int[] main(String[] args) {
-        int num[] = {2, 7, 4, 5, 3};
-        int ans = 9;
 
-        for(int i = 0; i<= num.length; i++) {
-            for (int j = i+1; j < num.length; j++) {
-                if(num[i] + num[j] == ans) {
+    public static void main(String[] args) {
+        int[] nums = {7, 3, 5, 4, 9};
+        int[] ans = main(nums,9);
+        System.out.println(ans);
+    }
+
+    public static int[] main(int[] nums, int target) {
+
+        for(int i = 0; i <= nums.length; i++) {
+            for (int j = i+1; j < nums.length; j++) {
+                if(nums[i] + nums[j] == target) {
                     int a[] = {i, j};
                     return a;
                 }
             }
         }
-        return num;
+        return null;
     }
 
 }

@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Solve Basic questions, beginners level.">
-      <change afterPath="$PROJECT_DIR$/src/AssignmentOne/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DSA/Arrays/twoNumbersbyIndex.java" afterDir="false" />
+    <list default="true" id="bfd6064f-7d43-4e3f-a82b-ad1517fcd4e3" name="Changes" comment="Now I started basic DSA questions.">
+      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/CalculateAverageOfNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/CalculateElectricityBill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AssignmentTwo/SumofN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSA/Arrays/twoNumbersbyIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DSA/Arrays/twoNumbersbyIndex.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="CountBirthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyOneIdeas.CountBirthday" />
+  <component name="RunManager" selected="Application.CalculateAverageOfNNumbers">
+    <configuration name="CalculateAverageOfNNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.CalculateAverageOfNNumbers" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyOneIdeas.*" />
+          <option name="PATTERN" value="AssignmentTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,38 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialNumberByUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicQuestionSolve.FactorialNumberByUser" />
+    <configuration name="CalculateElectricityBill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.CalculateElectricityBill" />
       <module name="LearnJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BasicQuestionSolve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BasicQuestionSolve.FibonacciSeries" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BasicQuestionSolve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KrishnaRadhaDrawing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AssignmentOne.KrishnaRadhaDrawing" />
-      <module name="LearnJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AssignmentOne.*" />
+          <option name="PATTERN" value="AssignmentTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +95,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SumofN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssignmentTwo.SumofN" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AssignmentTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoNumbersbyIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DSA.Arrays.twoNumbersbyIndex" />
+      <module name="LearnJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSA.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculateAverageOfNNumbers" />
+        <item itemvalue="Application.CalculateElectricityBill" />
+        <item itemvalue="Application.SumofN" />
+        <item itemvalue="Application.twoNumbersbyIndex" />
         <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.FibonacciSeries" />
-        <item itemvalue="Application.FactorialNumberByUser" />
-        <item itemvalue="Application.CountBirthday" />
-        <item itemvalue="Application.KrishnaRadhaDrawing" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689009282191</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Now I started basic DSA questions.">
+      <created>1689074757553</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1689074757553</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -419,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Complete assignment questions." />
     <MESSAGE value="In the program have error, I made program as to store data in array or print it." />
     <MESSAGE value="Do assignment" />
     <MESSAGE value="Complete assignments." />
@@ -444,6 +452,7 @@
     <MESSAGE value="I working on program to count age, help of DOB." />
     <MESSAGE value="They program perfectly run." />
     <MESSAGE value="Solve Basic questions, beginners level." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solve Basic questions, beginners level." />
+    <MESSAGE value="Now I started basic DSA questions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Now I started basic DSA questions." />
   </component>
 </project>
